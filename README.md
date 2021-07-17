@@ -5,6 +5,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 🎓 &nbsp;I am UdoiGogoi, a Computer Science Student at NIT Silchar who loves to learn. Intrested in Competitive Programming, Web Development,Machine Learning and Computer Science In general. 
+
 💡 &nbsp;Some technologies and frameworks I enjoy working with include NodeJS,ReactJS,ExpressJS,Django,Tensorflow and Pytorch.\
 🌱 &nbsp;I'm on track for learning more about Web Development,Machine Learning,Deep-Learning and AI.\
 ✉️ &nbsp;You can shoot me an email at udoigogoi2015@gmail.com! I'll try to respond as soon as I can.
