@@ -4,6 +4,8 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+![](https://komarev.com/ghpvc/?username=UdoiGogoi-github12345&color=green)
+
 🎓 &nbsp;I am UdoiGogoi, a Computer Science Student at NIT Silchar who loves to learn. Intrested in Competitive Programming, Web Development,Machine Learning and Computer Science In general. 
 
 💡 &nbsp;Some technologies and frameworks I enjoy working with include NodeJS,ReactJS,Flutter,ExpressJS,Django,Tensorflow and Pytorch.
